@@ -7,8 +7,7 @@ This repository provides supplementary experiments referenced in:
 Specifically:
 - zero-shot evaluation with Qwen3-VL-8B-Instruct (Appendix A)
 - visualization results supporting Section 4.2
-- rubric-conditioned prompting setup
-- parsed prediction outputs for reproducibility
+
 
 Note:
 The VLM experiment is a pilot zero-shot baseline. Performance may improve with
