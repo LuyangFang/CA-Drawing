@@ -6,7 +6,7 @@ This repository provides supplementary experiments referenced in:
 
 Specifically:
 - zero-shot evaluation with Qwen3-VL-8B-Instruct (Appendix A) [zero_shot_vlm_task42.md](./zero_shot_vlm_task42.md)
-- visualization results supporting Section 4.2 [confidence_visualization.md](./confidence_visualization.md)
+- visualization results supporting Section 4.2 [Confidence.md](./Confidence.md)
 
 
 Note:
